@@ -53,5 +53,4 @@ def file_upload():
                 return render_template('result.html', gen=genre)
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
