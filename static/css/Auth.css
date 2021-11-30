@@ -1,0 +1,17 @@
+.dd{
+	height: 100vh;
+	width: 100vw;
+	background-color: black;
+}
+
+.idd{
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+}
+
+.ii{
+	height: 300px;
+	width: 300px;
+	background-color: blueviolet;
+}

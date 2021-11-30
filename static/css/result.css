@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    overflow: scroll;
+    overflow-x: hidden;
+    margin: 0;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    background-color:black;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+    background: transparent;
+}
+
+.cl{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cir{
+    /* background-image: url('https://vinylgif.com/gifs/201412/casette-vs-vinyl-animation.gif'); */
+    background-image: url('https://64.media.tumblr.com/5a1ec6d87242e8d6ebc8c07c48bd7c87/tumblr_n768xgd5bP1relaado1_400.gif');
+    /* background-color: lightblue; */
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+}
+
+.cir>h1{
+    color: white;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
